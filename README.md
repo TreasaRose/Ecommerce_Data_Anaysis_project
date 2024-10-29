@@ -1,5 +1,5 @@
 # SQL Project: E-Commerce Sales and Customer Insights Analysis
-Read the full detailed article [here](.sql_query_results_collapsible.html) (Detailed queries explained).
+Read the full detailed article [here](https://treasarose.github.io/sql_sample_project/sql_query_results_collapsible.html) (Detailed queries explained).
 
 ### Description
 This project uses SQL to analyze the dataset of an e-commerce platform. The goal is to extract meaningful insights about customer behavior, product performance, seller activity, and order fulfillment. By answering critical business questions, this project helps in driving better decisions to optimize e-commerce operations.
