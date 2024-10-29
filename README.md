@@ -15,7 +15,7 @@ Note: If you are using SQL Server, you can also script out the database for easi
 
 ### Schema Diagram
 Schema Diagram Image Here 
-![Referance image](/Screenshot2024-10-25%20223150.png)
+![Referance image](/SchemaDiagram.png)
 
 ### Database and Tools
 - **SQL Server**
