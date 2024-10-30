@@ -163,7 +163,7 @@ JOIN CATEGORY_AVG_PRICE ON PRODUCTS.product_category_name = CATEGORY_AVG_PRICE.p
 WHERE"Order Items".PRICE > CATEGORY_AVG_PRICE.AVG_PRICE;
 --Explanation: Identifies products priced higher than the average in their category. It calculates each category’s average price and then lists products that are above that average.
 
---21: Correlation between payment type and review score
+--21: What is the average review score for each payment type
 SELECT "Order Payments".payment_type, AVG(Reviews.review_score) AS avg_review_score
 FROM "Order Payments"
 JOIN Orders ON "Order Payments".order_id = Orders.order_id
