@@ -27,7 +27,7 @@ You are free to use this dataset to build your own project and practice SQL skil
 
 ### Questions Answered
 The following are a few of the questions that are answered in this project.
-
+ 
 (check out the full SQL queries in the detailed article [here](https://treasarose.github.io/sql_sample_project/Ecommerce_Query_Analysis.html)):
 
 1. What are the unique states where sellers are located
